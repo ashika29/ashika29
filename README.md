@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on a real-time decrbonization project in the farms!
 
-💬 Feel free to talk to me: about yourself, for motivation and healthy discussions on anything (tech to life, just anything 😉)
+💬 Feel free to talk to me about anything: yourself, for motivation and healthy discussions on anything (tech to life, just anything 😉)
 
 📫 You can reach me at sriashikaa299@hotmail.com
 
