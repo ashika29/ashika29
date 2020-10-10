@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently pursuing my Bachelor's in Technology, majored in Computer Science & specialised in Machine learning. Well, am still learning...
+🌱 I’m currently pursuing my Bachelor's degree in Computer Science, specialised in Machine learning. Well, am always learning...
 
-🔭 I’m currently working on multiple projects, including my very own portfolio which I'd be publishing soon ;)
+🔭 I’ve worked on multiple projects, some are ongoing - including my very own portfolio which I'd be publishing soon ;)
 
 👯 I’m looking to collaborate on a real-time decrbonization project in the farms!
 
