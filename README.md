@@ -8,7 +8,7 @@
 
 💬 Feel free to talk to me about anything: yourself, for motivation and healthy discussions on anything (tech to life, just anything 😉)
 
-📫 You can reach me at sriashikaa299@hotmail.com
+📫 You can reach me on LinkedIn at https://www.linkedin.com/in/sriashika-addala/
 
 ⚡ Fun fact: It only takes 17 muscles (or even lesser) to smile, so say cheese... 😁
 
@@ -18,3 +18,5 @@
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/ashika2k8/articles
 - Medium: https://medium.com/@ashika2k8
 - Hackerearth: https://www.hackerearth.com/@sriashika29 (highly inactive)
+- ResearchGate: https://www.researchgate.net/profile/Sriashika_Addala
+
