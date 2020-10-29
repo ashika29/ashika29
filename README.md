@@ -16,7 +16,5 @@
 - Hackerrank: https://www.hackerrank.com/ashika29
 - Leetcode: https://leetcode.com/sriashika29/
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/ashika2k8/articles
-- Medium: https://medium.com/@ashika2k8
-- Hackerearth: https://www.hackerearth.com/@sriashika29 (highly inactive)
 - ResearchGate: https://www.researchgate.net/profile/Sriashika_Addala
 
