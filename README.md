@@ -2,7 +2,7 @@
 
 🌱 I’m currently pursuing my Bachelor's degree in Computer Science, specialised in Machine learning. Well, am always learning...
 
-🔭 I’ve worked on multiple projects, some are ongoing - including my very own portfolio which I'd be publishing soon ;)
+🔭 I’ve worked on multiple projects, some are ongoing - including my very own portfolio which I'd be publishing soon at https://sriashikaaddala.vercel.app/ ;)
 
 💬 Feel free to talk to me about anything: yourself, for motivation and healthy discussions on anything (tech to life, just anything 😉)
 
