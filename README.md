@@ -14,4 +14,4 @@
 - [Hackerrank](https://www.hackerrank.com/ashika29)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ashika2k8/articles)
 - [ResearchGate](https://www.researchgate.net/profile/Sriashika_Addala)
-
+- [Personal wordpress overview](https://ashikavarma.wordpress.com)
